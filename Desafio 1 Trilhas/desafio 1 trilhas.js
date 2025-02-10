@@ -32,7 +32,7 @@ if (nota >= 7) {
     console.log('Recuperação');
 } else {
     console.log('Reprovado');
-}//continuação questão 5 aqui foi criada a variável nota onde atribui o valor 4 e utilizei as condicionais para realizar o que foi pedido, onde, se a nota for maior ou igual a 7 será mostrado "Aprovado" como saída no console, se não, se a nota for maior que 5 ou igual a 5, e menor que 6 ou igual a 6 irá mostrar "recuperação" se não, irá mostrar 'reprovado'
+}//continuação questão 6 aqui foi criada a variável nota onde atribui o valor 4 e utilizei as condicionais para realizar o que foi pedido, onde, se a nota for maior ou igual a 7 será mostrado "Aprovado" como saída no console, se não, se a nota for maior que 5 ou igual a 5, e menor que 6 ou igual a 6 irá mostrar "recuperação" se não, irá mostrar 'reprovado'
 
 let numero1 = 8;
 let numero2 = 16;
